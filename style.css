@@ -1,0 +1,22 @@
+body {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.card {
+    border: 1px solid #ddd;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    margin-bottom: 0.5rem;
+}
